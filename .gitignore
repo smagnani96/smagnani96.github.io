@@ -1,6 +1,21 @@
 # IDEs
 .idea/
 
-# Hugo
 resources/
 public/
+admin
+author
+authors
+categories
+css
+images
+js
+media
+post
+publication
+publication_types
+tags
+talk
+404*
+index*
+sitemap*
