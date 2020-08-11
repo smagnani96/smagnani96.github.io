@@ -14,7 +14,7 @@ baseurl = "s41m0n.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "© Copyright 2020 Simone Magnani"
 
 ############################
 ## Advanced options below ##

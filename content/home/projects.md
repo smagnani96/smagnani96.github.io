@@ -21,17 +21,26 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "Cloud Computing"
+    tag = "cloud computing"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "Security"
+    tag = "security"
+
+  [[content.filter_button]]
+    name = "Cooperative"
+    tag = "cooperative"
+
+  [[content.filter_button]]
+    name = "Linux Kernel"
+    tag = "linux kernel"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -74,4 +83,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-

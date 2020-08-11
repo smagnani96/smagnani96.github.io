@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Software Developer (Internship)"
+  company = "Yoroi S.r.l."
+  company_url = "https://yoroi.company/"
+  location = "Cesena (IT)"
+  date_start = "2017-11-01"
+  date_end = "2017-12-30"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Created an information gatherer system aiming at:
+  * Analysing and parsing security logs
+  * Gathering potential malicious IPs info
+  * Deploying a command line interface tool
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Researcher (Fellowship)"
+  company = "Polytechnic of Turin"
+  company_url = "https://www.polito.it/"
+  location = "Turin (IT)"
+  date_start = "2020-07-01"
+  date_end = "2016-08-31"
+  description = """
+  Worked for prof. [Fulvio Risso](https://fulvio.frisso.net/) in Toshi, a european project.
+  I mainly worked with eBPF, achieving an optimized in-kernel packet analysis for cyber attacks detection.
+  """
 
 +++
