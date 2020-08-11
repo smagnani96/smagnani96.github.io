@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Skills"
-  url = "#skills"
+  url = "#generic_skills"
   weight = 10
 
 [[main]]

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Computer Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -14,23 +14,44 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+  
 [[feature]]
-  icon = "r-project"
+  icon = "linux"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "Linux Systems"
+  description = "Since 2015"
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "chrome"
+  icon_pack = "fab"
+  name = "Web developer"
+  description = "Angular, React, Spring, NodeJS, PHP, JS"  
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "cuttlefish"
+  icon_pack = "fab"
+  name = "Programming/Scripting"
+  description = "C, C++, Java, Python, Bash"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Cloud Systems"
+  description = "Docker and Kubernetes"
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "Most used DVCS"
+
+[[feature]]
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Database and DBMS"
+  description = "MySQL, SQLite, Oracle, MongoDB"
+
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
