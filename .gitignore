@@ -1,22 +1,16 @@
-# IDEs
-.idea/
+# Ignore everything
+*
 
-resources/
-.public
-public/
-admin
-author
-authors
-categories
-css
-images
-js
-media
-post
-publication
-publication_types
-tags
-talk
-404*
-./index*
-sitemap*
+# But not these files
+!.*
+!assets
+!config
+!content
+!data
+!layouts
+!resources
+!static
+!themes
+!build_and_publish.sh
+!LICENSE.md
+!README.md

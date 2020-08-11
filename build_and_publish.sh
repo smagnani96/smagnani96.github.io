@@ -14,8 +14,10 @@ git checkout render
 
 trap clean EXIT
 
-cp -r public/* .
-rm -rf public/
+mv public .public
+rm -rf ./*
+cp -r .public/* .
+rm -rf .public/
 
 git add .
 
