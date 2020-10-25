@@ -93,14 +93,14 @@ phone = "+39 348 6652876"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Corso Duca degli Abruzzi, 24", city = "Turin", region = "TO", postcode = "10129", country = "Italy", country_code = "IT"}
+address = {street = "Via Sommarive, 18", city = "Povo", region = "TN", postcode = "38123", country = "Italy", country_code = "IT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "45.0649", longitude = "7.6600"}
+coordinates = {latitude = "46.0671007", longitude = "11.1510658"}
 
 # Directions for visitors to locate you.
-directions = "Enter DAUIN building and take the stairs to Lab09 on Floor 2"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
