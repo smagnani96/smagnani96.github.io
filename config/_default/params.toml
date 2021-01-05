@@ -116,6 +116,7 @@ contact_links = [
   {icon = "linkedin", icon_pack = "fab", name = "Linkedin", link = "https://www.linkedin.com/in/simone-magnani-564830151/"},
   {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/SimoneMagnani96"},
   {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://telegram.me/@SimoMagno"},
+  {icon = "envelope", icon_pack = "fas", name = "simonemagnani.96@gmail.com", link = ""},
   ]
 
 ############################
