@@ -1,16 +1,2 @@
-# Ignore everything
-*
-
-# But not these files
-!.*
-!assets
-!config
-!content
-!data
-!layouts
-!resources
-!static
-!themes
-!build_and_publish.sh
-!LICENSE.md
-!README.md
+resources
+public
