@@ -4,8 +4,8 @@
 title: "BCC - IOVisor"
 summary: "BCC is a toolkit for creating efficient kernel tracing and manipulation programs, and includes several useful tools and examples."
 authors: []
-tags: ["Linux Kernel", "eBPF", "BPF", "Tracing", "Monitoring", "Wrapper"]
-categories: []
+tags: ["kernel", "ebpf", "bpf", "tracing", "monitoring", "wrapper"]
+categories: ["kernel", "ebpf", "bpf", "tracing", "monitoring", "wrapper"]
 date: 2020-08-09T11:09:12+02:00
 
 # Optional external URL for project (replaces project detail page).

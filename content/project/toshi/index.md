@@ -4,8 +4,8 @@
 title: "Toshi"
 summary: "Framework aiming at extracting and detecting threats like DDoS and Crypto mining attacks."
 authors: []
-tags: ["Security", "Linux Kernel", "eBPF", "BPF", "Artificial Intelligence"]
-categories: []
+tags: ["security", "kernel", "ebpf", "bpf", "artificial-intelligence"]
+categories: ["security", "kernel", "ebpf", "bpf", "artificial-intelligence"]
 date: 2020-08-09T11:07:56+02:00
 
 # Optional external URL for project (replaces project detail page).

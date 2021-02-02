@@ -4,8 +4,8 @@
 title: "Polycube"
 summary: "An open source software framework that provides fast and lightweight network functions such as bridges, routers, firewalls, and others."
 authors: []
-tags: ["Data Plane", "Linux Kernel", "iptables", "eBPF", "firewall", "vnf", "Kubernetes", "nat", "bpf", "bridge"]
-categories: []
+tags: ["data-plane", "kernel", "iptables", "ebpf", "firewall", "vnf", "kubernetes", "nat", "bpf", "bridge"]
+categories: ["data-plane", "kernel", "iptables", "ebpf", "firewall", "vnf", "kubernetes", "nat", "bpf", "bridge"]
 date: 2020-08-09T11:07:56+02:00
 
 # Optional external URL for project (replaces project detail page).

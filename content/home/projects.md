@@ -27,19 +27,19 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Cloud Computing"
-    tag = "cloud computing"
+    tag = "cloud-computing"
   
   [[content.filter_button]]
     name = "Security"
     tag = "security"
 
   [[content.filter_button]]
-    name = "Cooperative"
-    tag = "cooperative"
+    name = "eBPF/XDP"
+    tag = "ebpf"
 
   [[content.filter_button]]
     name = "Linux Kernel"
-    tag = "linux kernel"
+    tag = "kernel"
 
 
 [design]

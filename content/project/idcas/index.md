@@ -4,8 +4,8 @@
 title: "IDCAS"
 summary: "An open source framework to detect system exploitation and replay the received attack to others."
 authors: []
-tags: ["Security", "eBPF", "BPF", "CTF", "Attack Defense"]
-categories: []
+tags: ["security", "ebpf", "bpf", "ctf", "attack-defense"]
+categories: ["security", "ebpf", "bpf", "ctf", "attack-defense"]
 date: 2020-07-09T11:08:39+02:00
 
 # Optional external URL for project (replaces project detail page).

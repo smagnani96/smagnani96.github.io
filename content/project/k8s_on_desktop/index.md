@@ -4,8 +4,8 @@
 title: "Kubernetes on Desktop"
 summary: "Edge computing and service remotization"
 authors: []
-tags: ["Cloud Computing", "Kubernetes", "Docker", "VNC", "Edge Computing"]
-categories: []
+tags: ["cloud-computing", "kubernetes", "docker", "vnc", "edge-computing"]
+categories: ["cloud-computing", "kubernetes", "docker", "vnc", "edge-computing"]
 date: 2020-02-15T00:27:15+02:00
 
 # Optional external URL for project (replaces project detail page).

@@ -4,8 +4,8 @@
 title: "Cooperative Editor"
 summary: "A cooperative editor written in C++ to edit and share document with your friends"
 authors: []
-tags: ["Cooperative", "Sharing", "Cloud"]
-categories: []
+tags: ["cooperative", "sharing", "cloud-computing"]
+categories: ["cooperative", "sharing", "cloud-computing"]
 date: 2020-05-05T11:09:03+02:00
 
 # Optional external URL for project (replaces project detail page).

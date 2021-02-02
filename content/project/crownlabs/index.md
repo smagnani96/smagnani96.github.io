@@ -4,8 +4,8 @@
 title: "CrownLabs"
 summary: "A set of services that can deliver remote computing labs through a per-user virtual machine."
 authors: []
-tags: ["Cloud Computing", "Kubernetes", "Kubevirt", "VNC", "Remote Labs"]
-categories: ["Cloud Computing", "Kubernetes", "Kubevirt", "VNC", "Remote Labs"]
+tags: ["cloud-computing", "kubernetes", "kubevirt", "vnc", "remote-labs"]
+categories: ["cloud-computing", "kubernetes", "kubevirt", "vnc", "remote-labs"]
 date: 2020-04-15T10:18:25+02:00
 
 # Optional external URL for project (replaces project detail page).

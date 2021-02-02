@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company_url = "https://www.polito.it/"
   location = "Turin (IT)"
   date_start = "2020-07-01"
-  date_end = "2016-08-31"
+  date_end = "2020-08-31"
   description = """
   Worked for prof. [Fulvio Risso](https://fulvio.frisso.net/) in Toshi, a european project.
   I mainly worked with eBPF, achieving an optimized in-kernel packet analysis for cyber attacks detection.
