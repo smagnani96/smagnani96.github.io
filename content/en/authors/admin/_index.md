@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD researcher
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
 - name: Fondazione Bruno Kessler
-  url: "https://create-net.fbk.eu/rising/"
+  url: "https://ict.fbk.eu/units/rising"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed systems, cloud and network security.
+bio: A PhD Student focused on relationships and performance of the underlying Network traffic monitoring feature-gatherer process and AI/ML based Detection Engines
 
 interests:
-- Cyber Security
-- Network programming & optimization
-- Cloud systems
+- AI/ML Based Cyber Attack Detection
+- Network Traffic Monitoring
+- Adaptive Systems
 
 education:
   courses:
@@ -42,9 +42,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/SimoMagno
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/simone-magnani-564830151/
@@ -53,7 +50,7 @@ social:
   link: https://github.com/s41m0n
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "simonemagnani.96@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

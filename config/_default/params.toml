@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "mr_robot"
+theme = "minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -112,11 +112,8 @@ directions = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/SimoMagno"},
   {icon = "linkedin", icon_pack = "fab", name = "Linkedin", link = "https://www.linkedin.com/in/simone-magnani-564830151/"},
-  {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/SimoneMagnani96"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://telegram.me/@SimoMagno"},
-  {icon = "envelope", icon_pack = "fas", name = "simonemagnani.96@gmail.com", link = ""},
+  {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://telegram.me/@SimoMagno"}
   ]
 
 ############################
@@ -127,7 +124,7 @@ contact_links = [
 sharing_image = "me.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "SimoMagno"
+# twitter = "SimoMagno"
 
 ############################
 ## Regional Settings
