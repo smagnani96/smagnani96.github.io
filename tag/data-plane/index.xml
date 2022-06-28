@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>data-plane | Simone Magnani</title><link>https://s41m0n.github.io/tag/data-plane/</link><atom:link href="https://s41m0n.github.io/tag/data-plane/index.xml" rel="self" type="application/rss+xml"/><description>data-plane</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright `2022` Simone Magnani</copyright><lastBuildDate>Tue, 02 Feb 2021 10:18:25 +0200</lastBuildDate><image><url>https://s41m0n.github.io/media/me.png</url><title>data-plane</title><link>https://s41m0n.github.io/tag/data-plane/</link></image><item><title>DeChainy</title><link>https://s41m0n.github.io/project/dechainy/</link><pubDate>Tue, 02 Feb 2021 10:18:25 +0200</pubDate><guid>https://s41m0n.github.io/project/dechainy/</guid><description>&lt;p>Born alongside my latest MSc thesis period, while I was an active Polycube developer, DeChainy is another open source framework born to perform Service Programs Chain, using custom or pre-defined eBPF/XDP DataPlanes and Python ControlPlanes.&lt;/p>
+&lt;p>The main difference with others frameworks alike, is that DeChainy has been developed to satisfy the final user (researcher, students, etc.) expectations, and ease its development. In fact, while some service like Firewall or DDoSMitigator is already embedded in the framework, users can customize their network monitoring probes, creating its own programs accessible in two different ways: using an HTTP server, or as if they were custom Python scripts, fully accessible and easy to interact with.&lt;/p>
+&lt;p>There are plenty of features available, also concerning eBPF/XDP performance point of view.&lt;/p>
+&lt;p>For more information, please visit the project website (Code tag above 🔝).&lt;/p></description></item><item><title>Polycube</title><link>https://s41m0n.github.io/project/polycube/</link><pubDate>Sun, 09 Aug 2020 11:07:56 +0200</pubDate><guid>https://s41m0n.github.io/project/polycube/</guid><description>&lt;p>Born as research project years ago, Polycube is an open source software framework that provides fast and lightweight network functions such as bridges, routers, firewalls, and others.&lt;/p>
+&lt;p>It exploits both eBPF and Linux Kernel to perform Virtual Network Functions extremely fast and optimized. It is written in C++.&lt;/p>
+&lt;p>My contribution consists in:&lt;/p>
+&lt;ul>
+&lt;li>lighten the Docker image built (from 2.7 GB to 260 MB)&lt;/li>
+&lt;li>extending Dynamic Monitor (Dynmon), a service to dynamically inject user eBPF code, monitor the attached network interface and export metrics&lt;/li>
+&lt;li>addressing packet timestamp problem&lt;/li>
+&lt;li>introducing newest kernel structures support&lt;/li>
+&lt;li>optimize and extend the Firewall service for batch operations&lt;/li>
+&lt;li>writing a flexible Profiler framework&lt;/li>
+&lt;li>completing documentation and tests&lt;/li>
+&lt;/ul>
+&lt;p>For more information, please visit the project website (Code tag above 🔝).&lt;/p></description></item></channel></rss>
