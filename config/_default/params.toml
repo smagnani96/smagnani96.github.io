@@ -112,8 +112,7 @@ directions = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "linkedin", icon_pack = "fab", name = "Linkedin", link = "https://www.linkedin.com/in/simone-magnani-564830151/"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://telegram.me/@SimoMagno"}
+  {icon = "envelope", icon_pack = "fas", name = "Email", link = "mailto:simonemagnani.96@gmail.com"}
   ]
 
 ############################
@@ -144,7 +143,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = false}
+main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -292,4 +291,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
