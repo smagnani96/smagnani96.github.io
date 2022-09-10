@@ -1,0 +1,11 @@
+---
+title: A Control Plane Enabling Automated and Fully Adaptive Network Traffic Monitoring With eBPF
+date: 2022-06-28
+publishDate: 2022-06-28T20:13:52.623034Z
+authors: ["Simone Magnani", "Fulvio Risso", "Domenico Siracusa"]
+publication_types: ["2"]
+abstract: "The extended Berkeley Packet Filter (eBPF) enables the dynamic injection of user-defined processing logic at run-time in the Linux networking stack without disrupting any active monitoring process. This enables the selective extraction of only the traffic features that are needed in a given instant of time, which is what we define fully adaptive network traffic monitoring. However, eBPF programs require ad-hoc control plane routines for each specific scenario in order to orchestrate the underlying data plane and export the required metrics, resulting in potentially duplicated source codes to maintain, and creating the risk of deploying, at runtime, unverified user-defined code that controls the devices running the monitoring process. This paper presents a control plane that automatically adapts both its management tasks and data extraction methodologies based on the underlying data plane provided by the user, who can merely focus on the monitoring logic definition. The paper evaluates the performance of the control plane’s modules and demonstrates the advantages, in terms of processing speed and memory consumption, of a fully-adaptive monitoring approach with respect to nProbe (a state-of-the-art solution), an adaptive and a non-adaptive methodology in eBPF. Experiments prove that the control plane monitoring options do not significantly affect the underlying data plane (0.15% degraded throughput) and leverage the most efficient extraction primitives (20x faster execution time). Moreover, the fully-adaptive monitoring leads to a higher number of processed packets (10x) and significantly lower memory occupancy (10x) when extracting the smallest set of features."
+featured: true
+publication: IEEE Access
+url_pdf: "https://ieeexplore.ieee.org/document/9869628"
+---
