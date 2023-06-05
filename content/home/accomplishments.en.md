@@ -18,6 +18,68 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "route2open"
+  organization_url = "https://route2open.com/"
+  title = "Unboxing Open Networking (R2O-UON)"
+  url = ""
+  certificate_url = "https://route2open.com/certificate-verification/311E863-302CCD3-82C69"
+  date_start = "2023-04-13"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "route2open"
+  organization_url = "https://route2open.com/"
+  title = "SONiC Introduction (R2O-SON-BRC-SA-R1-M1-E1)"
+  url = ""
+  certificate_url = "https://route2open.com/certificate-verification/3223AEC-31284A3-82C69/"
+  date_start = "2023-04-13"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "route2open"
+  organization_url = "https://route2open.com/"
+  title = "Initial SONiC Setup (R2O-SON-BRC-SA-R1-M2-E1)"
+  url = ""
+  certificate_url = "https://route2open.com/certificate-verification/3223AEC-3128639-82C69/"
+  date_start = "2023-04-13"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "route2open"
+  organization_url = "https://route2open.com/"
+  title = "Introducing the CLI interface and Interface Configuration (R20-SON-BRC-SA-R1-M3-E1)"
+  url = ""
+  certificate_url = "https://route2open.com/certificate-verification/3223AEC-312D19B-82C69/"
+  date_start = "2023-04-30"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "route2open"
+  organization_url = "https://route2open.com/"
+  title = "Redundancy Methods (R20-SON-BRC-SA-R1-M4-E1)"
+  url = ""
+  certificate_url = "https://route2open.com/certificate-verification/3223AEC-330E2DB-82C69"
+  date_start = "2023-04-30"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "route2open"
+  organization_url = "https://route2open.com/"
+  title = "Routing Protocols in SONiC (R2O-SON-BRC-SA-R1-M5-E1)"
+  url = ""
+  certificate_url = "https://route2open.com/certificate-verification/3223AEC-33094BE-82C69/"
+  date_start = "2023-05-01"
+  date_end = ""
+  description = ""
+
 [[item]]
   organization = "British Council"
   organization_url = "https://takeielts.britishcouncil.org/"
@@ -67,8 +129,6 @@ date_format = "Jan 2006"
   date_start = "2021-03-14"
   date_end = ""
   description = ""
-
-
 
 
 +++

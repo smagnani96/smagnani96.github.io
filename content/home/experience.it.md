@@ -44,4 +44,16 @@ date_format = "Jan 2006"
   Principalmente mi sono occupato di eBPF, per creare funzioni di monitoraggio del traffico di rete efficienti e leggere per rilevare potenziali attacchi di sicurezza.
   """
 
+[[experience]]
+  title = "Ricercatore (Internship)"
+  company = "IBM Research Europe"
+  company_url = "https://research.ibm.com/labs/ireland"
+  location = "Dublino (Ireland)"
+  date_start = "2023-06-06"
+  date_end = "2023-08-26"
+  description = """
+  Ho collaborato durante il mio PhD alla definizione di algoritmi di Federated Learning per
+  rilevazione di cyber attacchi in ambienti eterogenei.
+  """
+
 +++

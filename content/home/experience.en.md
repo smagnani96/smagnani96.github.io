@@ -43,4 +43,17 @@ date_format = "Jan 2006"
   I mainly worked with eBPF, achieving an optimized in-kernel packet analysis for cyber attacks detection.
   """
 
+[[experience]]
+  title = "Fellow Researcher (Internship)"
+  company = "IBM Research Europe"
+  company_url = "https://research.ibm.com/labs/ireland"
+  location = "Dublin (Ireland)"
+  date_start = "2023-06-06"
+  date_end = "2023-08-26"
+  description = """
+  Collaborated during my PhD on Federated Learning algorithms and aggregation schemes in
+  case of heterogeneous devices and models in the context of cyber attacks detections.
+  """
+
+
 +++
