@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "NetSoft22 - Towards Application-Aware Provisioning of Security Services with Kubernetes"
-summary: "Demo Paper presentation at the 2022 IEEE Internation conference on network softwarization"
+title: "Towards Application-Aware Provisioning of Security Services with Kubernetes"
+summary: "Demo Paper presentation at the 2022 IEEE Internation Conference on Network Softwarization"
 authors: ["Roberto Doriguzzi-Corin", "Silvio Cretti", "Tiziana Catena", "Simone Magnani", "Domenico Siracusa"]
 tags: ["talk", "orchestrator", "provisioning"]
 categories: ["conference", "orchestrator", "provisioning"]

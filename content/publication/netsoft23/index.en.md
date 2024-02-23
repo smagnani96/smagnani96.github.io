@@ -1,0 +1,11 @@
+---
+title: "Enhancing Network Intrusion Detection: An Online Metodology for Performance Evaluation"
+date: 2023-07-13
+publishDate: 2023-07-13T20:13:52.623034Z
+authors: ["Simone Magnani", "Roberto Doriguzzi-Corin", "Domenico Siracusa"]
+publication_types: ["1"]
+abstract: "Machine learning models have been extensively proposed for classifying network flows as benign or malicious, either in-network or at the endpoints of the infrastructure. Typically, the performance of such models is assessed by evaluating the trained model against a portion of the available dataset. However, in a production scenario, these models are fed by a monitoring stage that collects information from flows and provides inputs to a filtering stage that eventually blocks malicious traffic. To the best of our knowledge, no work has analysed the entire pipeline, focusing on its performance in terms of both inputs (i.e., the information collected from each flow) and outputs (i.e., the system’s ability to prevent an attack from reaching the application layer).In this paper, we propose a methodology for evaluating the effectiveness of a Network Intrusion Detection System (NIDS) by placing the model evaluation test alongside an online test that simulates the entire monitoring-detection-mitigation pipeline. We assess the system’s outputs based on different input configurations, using state-of-the-art detection models and datasets. Our results highlight the importance of inputs for the throughput of the NIDS, which can decrease by more than 50% with heavier configurations. Furthermore, our research indicates that relying solely on the performance of the detection model may not be enough to evaluate the effectiveness of the entire NIDS process. Indeed, even when achieving near-optimal False Negative Rate (FNR) values (e.g., 0.01), a substantial amount of malicious traffic (e.g., 70%) may still successfully reach its target."
+featured: true
+publication: 2023 IEEE NetSoft
+url_pdf: "https://ieeexplore.ieee.org/document/10175465"
+---

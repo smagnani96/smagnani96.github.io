@@ -15,14 +15,17 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: Fondazione Bruno Kessler
-  url: "https://ict.fbk.eu/units/rising"
+  url: https://rising.fbk.eu/
+- name: University of Genova
+  url: https://dibris.unige.it/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: A PhD Student focused on relationships and performance of the underlying Network traffic monitoring feature-gatherer process and AI/ML based Detection Engines
+bio: A PhD Student currently working on relationship between network traffic features and quality of AI/ML-based detection engines.
 
 interests:
-- AI/ML Based Cyber Attack Detection
 - Network Traffic Monitoring
+- Observability and Containarization
+- AI/ML-based Cyber Attack Detection
 - Adaptive Systems
 
 education:
@@ -65,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Simone Magnani is a PhD student jointly at Fondazione Bruno Kessler (Povo, Italy) and University of Genova (Genova, Italy). Alongside all the academic tasks, he focuses on cyber security, cloud platforms and networking. Moreover, he has been member of two cybersecurity italian teams, [CeSeNA](https://cesena.github.io) and [pwnthem0le](https://pwnthemole.github.io), thanks to he not only had the opportunity to study and share with the other members many security issues, but he also took part in competitions (called CaptureTheFlag) fighting against other teams.
+Simone Magnani is a PhD student jointly at Fondazione Bruno Kessler (Povo, Italy) and University of Genova (Genova, Italy). Currently, he focuses on AI/ML-based detection system and their correlation with network traffic monitoring features. Prior to this, Simone was focussed mainly on traffic monitoring, leveraging technologies such as eBPF and contributing to open source projects. Moreover, he has been member of two cybersecurity italian teams, [CeSeNA](https://cesena.github.io) and [pwnthem0le](https://pwnthemole.github.io).
 
-For the entire duration of its PhD study course, Simone wants to keep digging topics like cloud computing and network security, applying artificial intelligence algorithms and advanced kernel packet filtering techniques to prototype and dig out an innovative cyberattacks detection mechanism.
+Simone is currently open for hiring. His ideal position would be as an Open Source Software Engineer mainly focusing on projects related to network traffic monitoring, service observability and virtualization. He is confident that his positive 'can-do' attitude, combined with his technical expertise, would be valuable contributions to the role.
